@@ -1,7 +1,7 @@
 ## <pre>IT 314 - Software Engineering </pre> 
 ### Lab 8 : Unit Testing with JUnit
 ### Name : Om Patel
-### S.ID: 202001462
+### Student ID: 202001462
 
 <h3 align="center" >
   <b>Lab Exercises</b>
